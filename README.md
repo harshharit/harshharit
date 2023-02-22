@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harsh Harit.
 - 👀 I’m interested in C++,Data Structures and Algorithms,Flutter and Web Development.
-- 🌱 I’m currently learning React and Kotlin.
+- 🌱 I’m currently learning MERN Stack.
 - 💞️ I’m looking to collaborate on Web Development projects.
 - 📫 How to reach me -> harshharit20@gmail.com
 - 🔗Instagram -> harshharitt.
